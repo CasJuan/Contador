@@ -5,3 +5,18 @@
     font-family: 'Teko', sans-serif;
     background-color: #45545f;
 }
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-principal{
+    text-align: center;
+}
+
+h1,span{
+    font-size: 50px;
+}
+
