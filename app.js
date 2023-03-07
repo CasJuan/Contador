@@ -20,7 +20,7 @@ btns.forEach(function (btn){
         }else if (contador < 0 ){
             value.style.color = "red";
         }else if (contador === 0){
-            value.style.color = "#222";
+            value.style.color = "black";
         }
 
         value.textContent = contador;
